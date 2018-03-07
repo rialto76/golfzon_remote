@@ -4,3 +4,5 @@ remote_1 local_1 remote_2
 master_2
 
 reset_1
+
+remote_3
